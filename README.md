@@ -1,4 +1,4 @@
-![bemvindo](https://i.imgur.com/DwTENYF.png)
+![bemvindo](https://i.imgur.com/jjCgrQz.png)
 #
 ![avisos](https://i.imgur.com/n3v1tHb.png)
 #
