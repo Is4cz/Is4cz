@@ -1,5 +1,15 @@
-![bemvindo](https://i.imgur.com/jjCgrQz.png)
-#
-![avisos](https://i.imgur.com/n3v1tHb.png)
-#
-![python](https://i.imgur.com/jtIHiD6.png)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Is4cz/Is4cz/main/gif1.gif">
+</div>
+
+---
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Is4cz/Is4cz/main/img2.png">
+</div>
+
+---
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Is4cz/Is4cz/main/img3.png">
+</div>
