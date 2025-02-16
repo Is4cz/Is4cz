@@ -10,8 +10,8 @@
 
 ---
 
-<p align="center" style="font-family: Montserrat, sans-serif; font-size: 40px; color: white; text-shadow: 2px 2px 10px #000000; font-weight: bold;">
-    Minhas linguagens são:
+<p align="center">
+    <img src="https://github.com/Is4cz/Is4cz/blob/main/img.png?raw=true" width="400">
 </p>
 
 <p align="center">
