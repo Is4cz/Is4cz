@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-    <img src="https://github.com/Is4cz/Is4cz/blob/main/ouvindo.png?raw=true" width="400">
+    <img src="https://github.com/Is4cz/Is4cz/blob/main/last.png?raw=true?raw=true" width="400">
 </p>
 
 <p align="center">
