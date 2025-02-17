@@ -5,12 +5,6 @@
 ---
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Is4cz/Is4cz/main/img2(outro).png">
-</p>
-
----
-
-<p align="center">
     <img src="https://github.com/Is4cz/Is4cz/blob/main/img.png?raw=true" width="400">
 </p>
 
